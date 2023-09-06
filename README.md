@@ -1,8 +1,8 @@
 
 ### 👋 Hi there 👋
 
-I'm working in ISAAC Engineering as PLC Engineer now.
-Interested in C++, Flutter, JS, Unity
+I'm working in ISAAC Engineering as PLC Engineer now.  
+Interested in C++, Flutter, JS, Unity  
 
 <!--
 **xodrho21/xodrho21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
