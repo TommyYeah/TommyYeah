@@ -8,8 +8,12 @@ I'm working in ISAAC Engineering as PLC Engineer now.
 Interested in C++, Flutter, JS, Unity 
 
 
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/donghee.yea)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/donghee.ye.92)
+
+<a href="https://www.facebook.com/donghee.yea" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/donghee.ye.92" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
+
+
+
 
 <!--
 ### 기술 아티클
